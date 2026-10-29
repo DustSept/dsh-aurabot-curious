@@ -1,0 +1,15 @@
+{
+  "name": "dsh-aurabot-curious",
+  "version": "1.0.0",
+  "description": "Aurabot 不懂就问模块：遇到没听过的新话题时，按概率先问清楚或猜一下再问",
+  "private": true,
+  "license": "MIT",
+  "author": "DustSept",
+  "keywords": [
+    "dsh",
+    "aurabot",
+    "qq",
+    "persona",
+    "curious"
+  ]
+}
